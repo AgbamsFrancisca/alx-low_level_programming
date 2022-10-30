@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main Rntry
+ * main - Rntry
  * Return: Always 0
  */
 int main(void)
